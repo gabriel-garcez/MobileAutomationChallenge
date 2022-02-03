@@ -1,12 +1,13 @@
+
 # MobileAutomationChallenge
 
-Mobile Automation of Convertion apk
+Mobile Automation of Convertion APK 
 
-Contains:
+## In order to execute you should have
 
-- Appium
-- Java
-- Junit
-- Maven
-- Page Object 
-- Cucumber
+● Java
+● Maven
+● IDE
+● JUnit
+● Appium
+● Android Studio 
